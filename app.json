@@ -1,0 +1,11 @@
+{
+  "name": "robot",
+  "description": "robot",
+  "keywords": [
+    "app-cloud"
+  ],
+  "repository": "https://github.com/gludik/robot",
+  "addons": [
+    "heroku-postgresql"
+  ]
+}
